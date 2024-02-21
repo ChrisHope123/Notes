@@ -1,1 +1,1 @@
-Notes taken during lectures and seminars while attending ELTE Faculty of informatics.
+Notes taken by me or available to me while attending ELTE Faculty of Informatics.
