@@ -46,8 +46,8 @@ mivel a rekordok halmazok, így vannak halmazműveletink
 Azért jó, mert így relációs algebrában és sqlben is tudjuk használni a halmazműveleteket.
 Műveletek:
 * ∖   MINUS
-* ∪  INTERSECCT
-* ∩  UNION
+* ∩   INTERSECCT
+* ∪   UNION
 
 σ <sub>N = 'Mi' </sub> 
 σ <sub>N ≠ | ≥ | ≤ 'Mi' </sub> ()
