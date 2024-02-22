@@ -35,9 +35,9 @@ from *táblák*
 
 Megfeletetés relációs algebrával
 select → Π
-Π alsóindex → oszlopok
+Π <sub>feltétel</sub> → oszlopok
 σ → where
-σ alsóindex → feltétel
+σ <sub>feltétel</sub> → feltétel
 tábla {*name*} → from *name*
 
 Összes oszlop kiválasztása a táblából → *
