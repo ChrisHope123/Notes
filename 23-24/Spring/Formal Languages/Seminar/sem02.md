@@ -1,5 +1,5 @@
 
-##Szabályok
+Szabályok
 
 S → A | A + S
 A → B | B * A
